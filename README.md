@@ -3,6 +3,9 @@
 I am a boy who is passionate about coding and I learn on my own.<br>
 I wrote more about myself here, in [BIO.md](https://gist.github.com/Croc-Prog-github/13e2536644c819790dfc09bbc6270243)✒️
 
+### My prizes
+![prizes](https://github-profile-trophy.vercel.app/?username=Croc-Prog-github&title=Stars,Followers,Commits,Repositories,PullRequest&theme=onedark)
+
 ### Current progress
 - 🔭 **I'm currently working on:**
    - [The Bocchette 2](https://github.com/Croc-Prog-github/The-Bocchette-2) (web videogame)
