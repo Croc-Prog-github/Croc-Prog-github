@@ -51,9 +51,9 @@ I wrote more about myself here, in [BIO.md](https://gist.github.com/Croc-Prog-gi
   <img width="12" />
   <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="40" alt="unity logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />  
 </div>
 
 </div>
@@ -61,7 +61,7 @@ I wrote more about myself here, in [BIO.md](https://gist.github.com/Croc-Prog-gi
 
 <div align="center">
    
-   ![prizes](https://github-profile-trophy.vercel.app/?username=Croc-Prog-github&title=Stars,Followers,Commits,Repositories,PullRequest&theme=onedark)
+   ![prizes](https://github-profile-trophy.vercel.app/?username=Croc-Prog-github&theme=onedark)
 </div>
 
 
