@@ -33,15 +33,20 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_display: detailed
           plugin_achievements_limit: 5
-          plugin_achievements_only: all
-          plugin_achievements_threshold: C
+          plugin_achievements_secrets: yes
+          plugin_achievements_threshold: X
           plugin_gists: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_repositories: yes
-          plugin_repositories_order: pinned
+          plugin_repositories_featured: The-Bocchette-2, Probability-Manager.js
+          plugin_repositories_order: pinned, featured, starred
           plugin_repositories_pinned: 2
           plugin_repositories_starred: 2
+          plugin_topics: yes
+          plugin_topics_limit: 10
+          plugin_topics_mode: labels
+          plugin_topics_sort: starred
           plugin_traffic: yes
           plugin_traffic_skipped: Croc-Prog-github
           repositories_batch: 100
