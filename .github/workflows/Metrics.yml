@@ -32,14 +32,10 @@ jobs:
           config_timezone: Europe/Rome
           plugin_achievements: yes
           plugin_achievements_display: detailed
-          plugin_achievements_limit: 4
-          plugin_achievements_only: commits
-          plugin_achievements_threshold: X
-          plugin_code: yes
-          plugin_code_days: 15
-          plugin_code_lines: 5
-          plugin_code_load: 400
-          plugin_code_visibility: public
+          plugin_achievements_limit: 5
+          plugin_achievements_only: all
+          plugin_achievements_threshold: C
+          plugin_gists: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_repositories: yes
@@ -47,6 +43,7 @@ jobs:
           plugin_repositories_pinned: 2
           plugin_repositories_starred: 2
           plugin_traffic: yes
+          plugin_traffic_skipped: Croc-Prog-github
           repositories_batch: 100
           repositories_forks: yes
           users_ignored: github-actions[bot]
