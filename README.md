@@ -3,9 +3,9 @@
 I am a boy who is passionate about coding and I learn on my own.<br>
 I wrote more about myself here, in [BIO.md](https://gist.github.com/Croc-Prog-github/13e2536644c819790dfc09bbc6270243)✒️
 
-<!--
+
 ![Metrics](/github-metrics.svg)
--->
+
 
 ### Current progress
 - 🔭 **I'm currently working on:**
