@@ -12,7 +12,17 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Cache
+        uses: actions/cache@v4.2.0
+        with:
+          # Configura qui i parametri necessari per il caching
+          path: path/to/cache
+          key: ${{ runner.os }}-cache-key
+          restore-keys: |
+            ${{ runner.os }}-cache-
+
+      - name: Run Metrics
+        uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
           # The following scopes are required:
