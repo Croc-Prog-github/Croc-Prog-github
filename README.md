@@ -16,7 +16,7 @@ I wrote more about myself here, in [BIO.md](https://gist.github.com/Croc-Prog-gi
 - 🌱 **I'm currently trying to learn:**
    - Basic-intermediate Javascript
    - Frameworks like: Vue.js, Astro, AngularJS
-   - C# applied to Unity IDE
+   - C# applied to Unity Engine
    - API to include game services (such as chatting, multiplayer, 3D rendering)
    - TypeScript applied to the Web
    - C++ object programming (for the school)
