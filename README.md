@@ -13,7 +13,7 @@ I wrote more about myself here, in [BIO.md](https://gist.github.com/Croc-Prog-gi
    - Many other small or big projects that I need to understand a topic (example: Dynamic Layout for HTML)
 - 🏁 **My finished projects are:**
      - [Probability-Manager.js](https://github.com/Croc-Prog-github/Probability-Manager.js)  A library that simplifies probability management in the videogames.
-- [Movement-library.js](https://github.com/Croc-Prog-github/Movement-library.js) A simple library for handling tag movement in vanilla HTML.
+     - [Movement-library.js](https://github.com/Croc-Prog-github/Movement-library.js) A simple library for handling tag movement in vanilla HTML.
 - 🌱 **I'm currently trying to learn:**
    - Basic-intermediate Javascript
    - Frameworks like: Vue.js, Astro, AngularJS
