@@ -19,7 +19,7 @@ I wrote more about myself here, in [BIO.md](https://gist.github.com/Croc-Prog-gi
    - Frameworks like: Vue.js, Astro, AngularJS
    - C# applied to Unity Engine
    - API to include game services (such as chatting, multiplayer, 3D rendering)
-   - TypeScript applied to the Web
+   - ~~TypeScript applied to the Web~~
    - ~~C++ object programming (for the school)~~
    - Nods or bases slight for: Shell, Batch, Java, F#
 - 🤝 **I collaborated on:**
