@@ -20,7 +20,7 @@ I wrote more about myself here, in [BIO.md](https://gist.github.com/Croc-Prog-gi
    - C# applied to Unity Engine
    - API to include game services (such as chatting, multiplayer, 3D rendering)
    - TypeScript applied to the Web
-   - [v] C++ object programming (for the school)
+   - ~~C++ object programming (for the school)~~
    - Nods or bases slight for: Shell, Batch, Java, F#
 - 🤝 **I collaborated on:**
    - [Stackblitz](https://github.com/stackblitz/core) (Online IDE inspired by VsCode)
