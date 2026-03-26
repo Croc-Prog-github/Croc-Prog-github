@@ -17,6 +17,7 @@ I wrote more about myself here, in [BIO.md](https://gist.github.com/Croc-Prog-gi
    - [Chilling-At](https://github.com/Croc-Prog-github/Chilling-At) virtual desk for chill during your tasks
    <!-- - Many other medium or big projects that I need to understand a topic (example: Dynamic Layout for HTML, React and Angular library, seample Python machine learning and data analyst,...) -->
 - 🏁🎉 **My finished projects are:**
+     - [LoreWeaver-2-LoRA_PREVIEW (on hf.co)](https://huggingface.co/Croc-Prog-HF/LoreWeaver-2-LoRA_PREVIEW) A preview of a Text generator template for creative writing augmented with short and medium messages/shifts.
      - [Probability-Manager.js](https://github.com/Croc-Prog-github/Probability-Manager.js)  A library that simplifies probability management in the videogames.
      - [Movement-library.js](https://github.com/Croc-Prog-github/Movement-library.js) A simple library for handling tag movement in vanilla HTML.
      - [OpenSource-License-Form](https://github.com/Croc-Prog-github/OpenSource-License-Form) choose among the more famous open source license only compiling a form.
